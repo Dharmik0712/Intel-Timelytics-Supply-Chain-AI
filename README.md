@@ -5,6 +5,8 @@ Timelytics is an ensemble model that utilizes three powerful machine learning al
 
 With Timelytics, businesses can identify potential bottlenecks and delays in their supply chain and take proactive measures to address them, reducing lead times and improving delivery times. The model utilizes historical data on order processing times, production lead times, shipping times, and other relevant variables to generate accurate forecasts of OTD times. These forecasts can be used to optimize inventory management, improve customer service, and increase overall efficiency in the supply chain.
 
+App - https://intel-timelytics-supply-chain-ai-w8puckctcfypofbusksjrh.streamlit.app/
+
 ## Dataset
 ### Brazilian E-Commerce Public Dataset by Olist
 
